@@ -78,37 +78,7 @@ Interested in **Computer Networking and Network Security**, including:
 
 ---
 
-## 🚀 Projects
 
-### 🔐 Cybersecurity Projects
-
-Security-focused projects for learning and applying cybersecurity concepts.
-
-### 📱 Flutter Projects
-
-Mobile applications developed using **Flutter & Dart**.
-
-### 🐍 Python Projects
-
-Programming, automation, problem-solving, and cybersecurity-related projects.
-
-### 🌐 Networking Labs
-
-Practical labs involving **routing, switching, VPN, DMVPN, and network security**.
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=mishaalfares&show_icons=true&theme=radical&hide_border=true" height="170">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mishaalfares&theme=radical&hide_border=true" height="170">
-
-</div>
-
----
 
 <div align="center">
 
